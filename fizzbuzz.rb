@@ -5,8 +5,8 @@ def fizzbuzz(int)
      "Fizz"
   elsif int % 5 == 0
      "Buzz"
-  else
-     "Doink"
+  #else
+  #   "Doink"
   end
 end
 # Don't forget! This file needs to be 'required' in its spec file
